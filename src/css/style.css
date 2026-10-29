@@ -1,0 +1,65 @@
+/* Estilo básico da Vinheria Agnello */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f5eee6;
+    color: #333333;
+    line-height: 1.6;
+}
+
+/* Cabeçalho */
+header {
+    background-color: #5b1a2b;
+    color: white;
+    text-align: center;
+    padding: 40px 20px;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
+
+/* Conteúdo principal */
+main {
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 0 20px;
+}
+
+section {
+    background-color: white;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-left: 6px solid #5b1a2b;
+}
+
+section h2 {
+    color: #5b1a2b;
+    margin-bottom: 10px;
+}
+
+ul {
+    margin-left: 20px;
+}
+
+/* Seção de aviso com outra cor */
+.aviso {
+    background-color: #fff4d6;
+    border-left-color: #c9a227;
+}
+
+/* Rodapé */
+footer {
+    background-color: #333333;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
