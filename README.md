@@ -20,7 +20,7 @@ Jackson Andre da Costa Silva
 
 ## Link do GitHub Pages
 
-https://SEU-USUARIO.github.io/vinheria-agnello-checkpoint03/
+https://github.com/Jacksondev-code/vinheria-agnello-checkpoint03/tree/main
 
 ## Como ver o resultado
 
